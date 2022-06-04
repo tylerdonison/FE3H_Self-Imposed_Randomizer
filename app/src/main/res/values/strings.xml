@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">FE3H Self-Imposed Randomizer</string>
+    <string name="route_text">Route:</string>
+    <string name="dlc_text">Include DLC?</string>
+    <string name="other_student_text">Other Students</string>
+    <string name="non_student_text">Non-Students</string>
+    <string name="randomize_text">Randomize</string>
+    <string name="results_text">Results</string>
+    <string-array name="route_array">
+        <item>Black Eagles</item>
+        <item>Blue Lions</item>
+        <item>Golden Deer</item>
+        <item>Church Route</item>
+    </string-array>
+    <string-array name="DLC">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="OtherStudents">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="NonStudents">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+</resources>
