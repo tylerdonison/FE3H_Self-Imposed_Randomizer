@@ -6,7 +6,7 @@ This self-restriction is an interesting way to play the game in a different way 
 
 As a previous project required me to use Kotlin and learn Kotlin, this program was to implement Kotlin programming in a phone application, as well as learn the basics of andriod mobile programming.
 
-# How to use the Fire Emblem: Three Houses Self-Imposed Randomizer:
+## How to use the Fire Emblem: Three Houses Self-Imposed Randomizer:
 
 1. Select one of the four routes that you are going to play.
 2. Select if the downloadable content (DLC) should be included in the randomizer or not.
