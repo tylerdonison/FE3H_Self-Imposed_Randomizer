@@ -6,6 +6,8 @@ This self-restriction is an interesting way to play the game in a different way 
 
 As a previous project required me to use Kotlin and learn Kotlin, this program was to implement Kotlin programming in a phone application, as well as learn the basics of andriod mobile programming.
 
+[Software Demo Video](http://youtube.link.goes.here)
+
 ## How to use the Fire Emblem: Three Houses Self-Imposed Randomizer:
 
 1. Select one of the four routes that you are going to play.
@@ -14,8 +16,6 @@ As a previous project required me to use Kotlin and learn Kotlin, this program w
 4. Select the number of non-student recruits. This option will randomly pick according to route and dlc and give them a set of self-imposed rules.
 5. Click the randomize button.
 6. The application will then direct the user to a list of the randomly generated units and proficiencies.
-
-[Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
