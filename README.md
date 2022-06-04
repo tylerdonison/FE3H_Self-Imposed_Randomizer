@@ -20,11 +20,11 @@ As a previous project required me to use Kotlin and learn Kotlin, this program w
 # Development Environment
 
 * Kotlin 1.6.21
-* Andriod Studio 2021.2.1.15
+* Android Studio 2021.2.1.15
 
 # Useful Websites
 
-* [Andriod Studio Official](https://developer.android.com/studio)
+* [Android Studio Official](https://developer.android.com/studio)
 
 # Future Work
 
