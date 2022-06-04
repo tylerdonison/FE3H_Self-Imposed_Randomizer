@@ -6,7 +6,7 @@ This self-restriction is an interesting way to play the game in a different way 
 
 As a previous project required me to use Kotlin and learn Kotlin, this program was to implement Kotlin programming in a phone application, as well as learn the basics of andriod mobile programming.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/1eWv7hQy49Y)
 
 ## How to use the Fire Emblem: Three Houses Self-Imposed Randomizer:
 
